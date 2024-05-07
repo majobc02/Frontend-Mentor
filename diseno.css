@@ -1,0 +1,31 @@
+.fotoqr{
+    padding: 20px;
+    padding-bottom: 1px!important;
+    border-radius: 30px;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Esto centra verticalmente en toda la altura del viewport */
+}
+
+h5 {
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+}
